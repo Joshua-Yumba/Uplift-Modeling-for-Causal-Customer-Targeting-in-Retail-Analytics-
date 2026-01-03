@@ -1,1 +1,18 @@
+# cig/config.yaml
+clustering:
+  n_clusters: 4
 
+ltv:
+  penalizer_coef_bgf: 0.001
+  penalizer_coef_ggf: 0.0
+  monthly_discount_rate: 0.01
+  prediction_period_months: 12
+
+ai:
+  use_ml_clv: true
+  use_churn: true
+  use_auto_gmm_segmentation: true
+  max_gmm_components: 7
+  use_nbo: true
+  use_uplift: true
+  use_forecasting: true
