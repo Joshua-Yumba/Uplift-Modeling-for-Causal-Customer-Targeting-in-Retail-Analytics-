@@ -22,11 +22,6 @@ Python 3.8+
 
 Git
 
-# Setup
-git clone https://github.com/your-username/retail-uplift-modeling.git
-cd retail-uplift-modeling
-pip install -r requirements.txt
-
 # Usage
 
 Run the uplift modeling pipeline from the project root:
