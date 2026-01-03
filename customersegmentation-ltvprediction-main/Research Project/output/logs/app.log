@@ -1,0 +1,37 @@
+2026-01-02 17:17:30,348 - ERROR - Configuration file not found: [Errno 2] No such file or directory: 'E:\\Chosen\\customersegmentation-ltvprediction\\Research Project\\config\\config.yaml'
+2026-01-02 17:18:44,473 - INFO - Configuration loaded successfully.
+2026-01-02 17:18:44,473 - INFO - Output directories created.
+2026-01-02 17:27:16,807 - INFO - Configuration loaded successfully.
+2026-01-02 17:27:16,807 - INFO - Output directories created.
+2026-01-02 17:29:39,784 - INFO - Configuration loaded successfully.
+2026-01-02 17:29:39,786 - INFO - Output directories created.
+2026-01-02 17:29:41,233 - INFO - RFM data calculated for 338 cities.
+2026-01-02 17:29:48,397 - INFO - Clustering completed.
+2026-01-02 17:29:48,848 - INFO - LTV prediction completed.
+2026-01-02 17:29:49,287 - INFO - ML CLV trained. R2=0.925, MAE=28.60
+2026-01-02 17:29:49,912 - INFO - Churn model trained. AUC=0.610
+2026-01-02 17:29:55,273 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-02 17:29:55,283 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-02 17:29:55,516 - INFO - Visualizations generated.
+2026-01-02 17:29:55,548 - INFO - Core results saved to CSV files.
+2026-01-02 17:29:55,987 - INFO - NBO recommendations generated.
+2026-01-02 17:29:56,003 - INFO - Uplift modeling completed.
+2026-01-02 17:29:56,183 - INFO - 30-day CLV forecasting completed.
+2026-01-02 17:29:56,303 - INFO - Run metrics appended to pipeline history.
+2026-01-02 17:29:56,412 - INFO - Summary printed to console.
+2026-01-02 17:49:06,297 - INFO - Configuration loaded successfully.
+2026-01-02 17:49:06,306 - INFO - Output directories created.
+2026-01-02 17:49:07,696 - INFO - RFM data calculated for 338 cities.
+2026-01-02 17:49:10,386 - INFO - Clustering completed.
+2026-01-02 17:49:10,849 - INFO - LTV prediction completed.
+2026-01-02 17:49:11,297 - INFO - ML CLV trained. R2=0.925, MAE=28.60
+2026-01-02 17:49:12,047 - INFO - Churn model trained. AUC=0.610
+2026-01-02 17:49:14,762 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-02 17:49:14,779 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-01-02 17:49:14,964 - INFO - Visualizations generated.
+2026-01-02 17:49:14,991 - INFO - Core results saved to CSV files.
+2026-01-02 17:49:15,226 - INFO - NBO recommendations generated.
+2026-01-02 17:49:15,226 - INFO - Uplift modeling completed.
+2026-01-02 17:49:15,426 - INFO - 30-day CLV forecasting completed.
+2026-01-02 17:49:15,453 - INFO - Run metrics appended to pipeline history.
+2026-01-02 17:49:15,517 - INFO - Summary printed to console.
